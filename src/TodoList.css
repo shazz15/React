@@ -1,0 +1,35 @@
+.main .header input {
+	padding: 10px;
+	font-size: 16px;
+	border: 2xp
+	width 165px;
+}
+.main .header button{
+	padding: 10px;
+	font-size: 16px;
+	margin:10px;
+	margin-right: 0px;
+	background-color: grey;
+	color: yellow;
+	border: 2px;
+}
+
+.main .header button:hover {
+	background-color: #003398;
+	border: 2px;
+	cursor: pointer;
+}
+
+.main .theList li{
+	color: #456;
+	background-color: rgba(150,150,150,1);
+	padding: 15px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	list-style: none;
+}
+
+ul.theList{
+	padding: 0;
+	
+}
